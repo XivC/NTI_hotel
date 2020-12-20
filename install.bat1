@@ -1,0 +1,6 @@
+pip install XlsxWriter
+pip install pandas
+pip install numpy
+pip install fpdf
+pip install xlrd
+start FreeSans.ttf
